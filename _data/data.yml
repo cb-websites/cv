@@ -185,26 +185,25 @@ projects:
         link: "#"
         tagline: "Refactoring in Python with Pandas and Sci-Kit Learn, of the Spend&Savings reporting tool, previously realized in Excel VBA. The most laborioius part of the process was reimplemented using the KNN machine learning technique for classification, based on categorical variables. Project realized for Novartis Farma."
 
-      - title: Delta
+      - title: Ticket Report Updater
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An application developed in Excel VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
 
-      - title: Delta
+      - title: {shift+return}
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Personal blog realized with Jekyll static site generator with the Emerald theme and hosted on GitHub Pages."
 
-      - title: Delta
+      - title: SF-CO
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, runs a series of validation procedures, in accordance to rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to a sqlite database. The precision of the matching procedures is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
 
-      - title: Delta
+      - title: RED - Client Managemen
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "CRM like web application for real estate developers. Other than the CRM functionalities, it will also allow users to automatically generate contracts and invoices (based on the client information already present in the database), manage the ongoing real estate projects and monitor the loans the real estate developer grants to its cliens. It leverages a banink API to connect to the company's bank account and check that the payment of the monthly installments have been paid by the clients. This project is in it's early days and will implemented using Django and Bootstrap with an PostgreSQL database and Apache Web Server."
 
-      - title: Delta
+      - title: Notary Fee Calculator
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline: "A client side only web application to be realized with Vue.js and Bootstrap, using local Web Storage (will run locally). It will help notay offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees. The project is in it's early days."
 
 
 skills:
