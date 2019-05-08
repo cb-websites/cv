@@ -189,7 +189,7 @@ projects:
         link: "#"
         tagline: "An application developed in Excel VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
 
-      - title: {shift+return}
+      - title: "{shift+return}"
         link: "#"
         tagline: "Personal blog realized with Jekyll static site generator with the Emerald theme and hosted on GitHub Pages."
 
@@ -197,7 +197,7 @@ projects:
         link: "#"
         tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, runs a series of validation procedures, in accordance to rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to a sqlite database. The precision of the matching procedures is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
 
-      - title: RED - Client Managemen
+      - title: RED - Client Management
         link: "#"
         tagline: "CRM like web application for real estate developers. Other than the CRM functionalities, it will also allow users to automatically generate contracts and invoices (based on the client information already present in the database), manage the ongoing real estate projects and monitor the loans the real estate developer grants to its cliens. It leverages a banink API to connect to the company's bank account and check that the payment of the monthly installments have been paid by the clients. This project is in it's early days and will implemented using Django and Bootstrap with an PostgreSQL database and Apache Web Server."
 
