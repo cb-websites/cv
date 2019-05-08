@@ -155,21 +155,21 @@ projects:
     assignments:
       - title: Spend&Savings
         link: "#hook"
-        tagline: "An application developed in Excel VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement departement. Developed for Novartis Farma"
+        tagline: "An application developed in Excel VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement departement. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for Novartis Farma."
 
       - title: Procurement BidForm
         link: "#"
-        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken intro consideration when chosing to award the tendet to a chosen supplier. The document is the exported to .pdf to be archived. It was developed in Excel VBA for Novartis Farma."
+        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken intro consideration when chosing to award the tender to a certain supplier. The document is then exported to .pdf to be archived. It was developed in Excel VBA for Novartis Farma."
 
       - title: Report Centralizer
         link: "#"
-        tagline: "Application realized in Excel VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for BMW Italy."
+        tagline: "Application realized in Excel VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for use in BMW Italy."
 
-      - title: Atom
+      - title: Procurement Portal Refactoring
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Restructuring of the Share Point site of the Procurement Department. Performed SEO optimization for internal search engine and modified the file storage structure in order to render update of the site more intuitive and less time consuming. Project realized for Novartis Farma"
 
-      - title: Delta
+      - title: Regional Business Plan Refactoring
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
