@@ -150,16 +150,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Worked on a series of projects both personal and work related using various tools like Python, Django, Excel, VBA, Jekyll.
 
     assignments:
-      - title: Velocity
+      - title: Spend&Savings
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Client: Novartis Farma. An application developed in Excel VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement departement. Developed for Novartis Farma"
 
-      - title: DevStudio
+      - title: BidForm
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
