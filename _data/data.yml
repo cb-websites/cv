@@ -154,7 +154,7 @@ projects:
 
     assignments:
       - title: Spend&Savings
-        #link: "#hook"
+        link: 
         tagline: "An application developed in Excel VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement departement. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for Novartis Farma."
 
       - title: Procurement BidForm
