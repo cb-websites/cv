@@ -159,11 +159,11 @@ projects:
 
       - title: Procurement BidForm
         link: "#"
-        tagline: "An interactive form used in the supplier acquisition process that allows to motivate the choice. It takes in data from multiple sources in order to generate the final version of the form and it also makes computations to generate the qualitative and quantitative indicators taken intro consideration when chosing to award the tendet to a chosen supplier. The document is the exported to .pdf to be archived. It was developed in Excel VBA for Novartis Farma."
+        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken intro consideration when chosing to award the tendet to a chosen supplier. The document is the exported to .pdf to be archived. It was developed in Excel VBA for Novartis Farma."
 
-      - title: Tempo
+      - title: Report Centralizer
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Application realized in Excel VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for BMW Italy."
 
       - title: Atom
         link: "#"
@@ -172,6 +172,35 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 
 skills:
