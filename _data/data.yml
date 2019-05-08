@@ -169,17 +169,21 @@ projects:
         link: "#"
         tagline: "Restructuring of the Share Point site of the Procurement Department. Performed SEO optimization for internal search engine and modified the file storage structure in order to render update of the site more intuitive and less time consuming. Project realized for Novartis Farma"
 
+      - title: GDPR Data Entry
+        link: "#"
+        tagline: "Managed a team of 8 persons that recorded information from scanned pdf documents to tabular form, for the purpose of analisys. In the process I developed various VBA based programs that help identify and remove duplicates and also identify some errors in the submited information. Project realized for Boehringer-Ingelheim Italy."
+
       - title: Regional Business Plan Refactoring
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Implemented various changes requested by client in an Excel VBA application used for administration and monitoring of the regional sales business plan. Project realized for Boehringer-Ingelheim Italy."
 
-      - title: Delta
+      - title: Duplicate Remover
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An app realized in Python with Pandas and difflib, ran in Jupyter Notebook. After the rules on considering two records as duplicates are established it takes a CSV file as input and checks the content. Using a string matching technique implemented with SequenceMatcher it evaluates the records and marks those found as duplicates. Project realized for use in Boehringer-Ingelheim Italy."
 
-      - title: Delta
+      - title: Spend&Savings ML
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Refactoring in Python with Pandas and Sci-Kit Learn, of the Spend&Savings reporting tool, previously realized in Excel VBA. The most laborioius part of the process was reimplemented using the KNN machine learning technique for classification, based on categorical variables. Project realized for Novartis Farma."
 
       - title: Delta
         link: "#"
