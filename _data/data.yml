@@ -233,9 +233,9 @@ skills:
         level: 25%
 
       - name: VBA
-        level:80%
+        level: 80%
 
-- name: Machine Learning
+      - name: Machine Learning
         level: 25%
 
 footer: >
