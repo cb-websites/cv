@@ -153,6 +153,10 @@ projects:
         Worked on a series of projects both personal and work related using various tools like Python, Django, Excel, VBA, Jekyll.
 
     assignments:
+      - title: CSV Bulk Email
+        link: 
+        tagline: "PHP application, that loops through a CSV file and reads name, salutation and email address of recipients and uses the PHP Mailer library to send emails, based on a template taken from either a txt or an html file. "
+
       - title: Spend&Savings
         link: 
         tagline: "An application developed in Excel VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement departement. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for Novartis Farma."
