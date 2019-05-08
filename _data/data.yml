@@ -150,7 +150,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-        Worked on a series of projects both personal and work related using various tools like Python, Django, Excel, VBA, Jekyll.
+        Participated in a series of projects both personal and work related using various tools like Python, Django, Excel, VBA, Jekyll.
 
     assignments:
       - title: CSV Bulk Email
@@ -215,22 +215,28 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 75%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: Vue.js
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
+      - name: Data Analysis
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Machine Learning
+        level: 25%
+
+      - name: VBA
+        level:80%
+
+- name: Machine Learning
+        level: 25%
 
 footer: >
     CV - Calin-Gabriel BULE 
