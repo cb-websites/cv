@@ -7,52 +7,50 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Calin-Gabriel BULE
+    tagline: Consultant / Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: calin.bule@gmail.com
+    phone: 0039.353.329.2689 / 0040.757.846.420
+    website: https://shift-return.github.io/ #do not add http://
+    linkedin: calinbule
+    github: calinbule
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: calin.bule # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Romanian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Advanced
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Italian
+        level: Advanced 
         
     interests:
-      - item: Climbing
+      - item: my family
         link:
 
-      - item: Snowboarding
+      - item: travelling
         link:
 
-      - item: Cooking
+      - item: learning
+        link:
+        
+      - item: coding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Project Manager / Analyst with more than 12 years of diverse-industry experience, and focus on data-driven technologies, analytics and business intelligence. Proficient in both English and Italian, versatile and able to easily adapt to changes and generate results in no time. Have a BSc. in Economics and one in Computer Science and an MSc degree in Management.
 
-      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
