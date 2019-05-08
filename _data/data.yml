@@ -51,6 +51,7 @@ career-profile:
     title: Career Profile
     summary: |
       Project Manager / Analyst with more than 12 years of diverse-industry experience, and focus on data-driven technologies, analytics and business intelligence. Proficient in both English and Italian, versatile and able to easily adapt to changes and generate results in no time. 
+      
       Have a BSc. in Economics and one in Computer Science and an MSc degree in Management.
 
 
@@ -69,26 +70,54 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Consultant
+      time: Mar 2017 - Present
+      company: everis Italia, Milan Area, IT
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Currently working on creating and implementing an application for automatic string matching, using Python, Pandas, Selenium, and Django with data extracted from multiple sources (like proprietary web app, SalesForce, local files), and output to a PostgreSQL database and CSV files that will be sent by email 
+        - Created automated data pipelines and procedures/scripts, with one or more
+        sources, using tools like R, Python, Pandas and SciKit Learn, SQL for data
+        cleansing and processing, string matching, data normalization
+        - Implemented simple machine learning classification models for data classification inside of Procurement department
+        - QA and for CRM implementation project
+        - Managed all reporting activities for the Procurement department
+        - Provided insights into the performance of various areas by creating analysis
+        reports and visualizations, using Excel and Power BI
+        - Reduced monthly reporting time from 4-5 days to 2-3 hours by implementing
+        workflows and automating the processes using Excel VBA and SQL
+        - Facilitated adoption of new software tools by providing easy to understand
+        training and support
+        - Helped reduce the supplier risk in one of the divisions of the client company
+        by implementing an assessment tool and facilitated adoption by users
+        - Developed and implemented Excel VBA software tools for automation of data
+        analysis and reporting, thus reducing the time spent on these processes
+        - Reduced bureaucracy by streamlining and optimizing various workflows
+        inside the Procurement department
+        - Created documentation / working procedures for the Business Intelligence
+        Operations Team, enabling the colleagues to work in an organised and
+        structured manner
 
-          - Bullet point
-          - Bullet point 
+    - role: Project Manager / Office Manager
+      time: Jan 2016 - Present
+      company: NIGITHOR Consulting, Arad, RO
+      details: |
+        - Managed a team of three people, that provides support for the back-end of a banking analytics platform (Oracle database, ETL flows, shell scripts, SQL queries, PL/SQL procedures, SAP Business Objects query creation and maintenance)
+        - Helped build an Android mobile app for the European Commission together with the Italian team; offered support on other mobile and web development and testing projects
+        - Managed analytics and reporting projects 
+        - Recruited five persons for the Romanian team and selected multiple persons for interviews, for the Italian team
+        - Organized training sessions for the new colleagues on Oracle SQL, Italian and web technologies
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Branch Manager
+      time: Jul 2015 - Dec 2015
+      company: Volksbank, Arad, RO
+      details: |
+        - Maintained a high level of compliance of the branch operations, fact confirmed by an audit 
+        - Successfully implemented a massive loan conversion program that helped clients reduce the financial load. Obtained and adherence rate of more than 90%, with a national average of 60%
+        - Coordination of subordinate staff to achieve sales targets
+
+    - role: Relationship Manager for Private Individual and Small Business Customers
+      time: May 2012 - Jun 2015
+      company: Volksbank, Arad, RO
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,21 +125,27 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Relationship Manager
+      time: Aug 2008 - May 2012
+      company: Unicredit Bank, Arad, RO
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Administered and grew the branch portfolio 
+        - Generated leads through direct marketing and increased loans sales
 
-          - Bullet point
-          - Bullet point
+    - role: Direct Sales Executive
+      time: Dec 2007 - Jul 2008
+      company: ABN AMRO Bank, Arad, RO
+      details: |
+        - Generated sales leads and increased the bank portfolio through direct marketing
+
+    - role: Project Manager
+      time: Oct 2006 - Jun 2007
+      company: eXpo Design Systems, Arad, RO
+      details: |
+        - Administered accounts and increased client pool 
+        - Helped clients to get the best possible product while generating revenue for the company 
+        - Supported clients through all the phases of the production of the finished product
+
 
 
 projects:
