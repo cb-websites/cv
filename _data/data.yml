@@ -21,7 +21,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: calin-bule # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 5563086/calin-bule # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
@@ -50,35 +50,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Project Manager / Analyst with more than 12 years of diverse-industry experience, and focus on data-driven technologies, analytics and business intelligence. Proficient in both English and Italian, versatile and able to easily adapt to changes and generate results in no time. Have a BSc. in Economics and one in Computer Science and an MSc degree in Management.
+      Project Manager / Analyst with more than 12 years of diverse-industry experience, and focus on data-driven technologies, analytics and business intelligence. Proficient in both English and Italian, versatile and able to easily adapt to changes and generate results in no time. 
+      Have a BSc. in Economics and one in Computer Science and an MSc degree in Management.
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: MSc in Management and Finance
+      university: Aurel Vlaicu University of Arad, Romania
+      time: 2006 - 2008
 
-          - Bullet point
-          - Bullet point 
+    - degree: BSc in Computer Science
+      university: Aurel Vlaicu University of Arad, Romania - Facutly of Exact Sciences
+      time: 2002 - 2007
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: BSc in Computer Science/Informatics
+      university: Aurel Vlaicu University of Arad, Romania - Facutly of Economic Sciences
+      time: 2002 - 2006
 
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: Lead Developer
