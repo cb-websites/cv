@@ -217,12 +217,21 @@ skills:
       - name: Python & Django
         level: 75%
 
+      - name: Data Analysis & Visualization
+        level: 85%
+
+      - name: Machine Learning
+        level: 25%
+
       - name: Pandas & NumPy
         level: 70%
         
       - name: Sci-Kit Learn
         level: 30%
-
+        
+      - name: Jupyter Notebook/Lab
+        level: 70%
+        
       - name: R, tidyverse & RStudio
         level: 40%
 
@@ -235,29 +244,20 @@ skills:
       - name: Bootstrap
         level: 50%
 
-      - name: Data Analysis & Visualization
-        level: 85%
-
-      - name: Machine Learning
-        level: 25%
-
-      - name: VBA
-        level: 80%
+      - name: MS Visual Studio Code
+        level: 65%
 
       - name: SQL
         level: 60%
+
+      - name: DBeaver
+        level: 60%
+
+      - name: VBA
+        level: 80%
         
       - name: MS Office
         level: 85%
-        
-      - name: MS Visual Studio Code
-        level: 65%
-        
-      - name: Jupyter Notebook/Lab
-        level: 70%
-    
-      - name: DBeaver
-        level: 60%
  
       - name: Git & GitHub
         level: 60%
