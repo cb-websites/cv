@@ -37,7 +37,7 @@ sidebar:
       - item: my family
         link:
 
-      - item: travelling
+      - item: traveling
         link:
 
       - item: learning
@@ -61,11 +61,11 @@ education:
       time: 2006 - 2008
 
     - degree: BSc in Computer Science
-      university: Aurel Vlaicu University of Arad, Romania - Facutly of Exact Sciences
+      university: Aurel Vlaicu University of Arad, Romania - Faculty of Exact Sciences
       time: 2002 - 2007
 
     - degree: BSc in Computer Science/Informatics
-      university: Aurel Vlaicu University of Arad, Romania - Facutly of Economic Sciences
+      university: Aurel Vlaicu University of Arad, Romania - Faculty of Economic Sciences
       time: 2002 - 2006
 
 
@@ -74,7 +74,7 @@ experiences:
       time: Mar 2017 - Present
       company: everis Italia, Milan Area, IT
       details: |
-        - Currently working on creating and implementing an application for automatic string matching, using Python, Pandas, Selenium, and Django with data extracted from multiple sources (like proprietary web app, SalesForce, local files), and output to a SQLite database and CSV files that will be sent by email 
+        - Currently working on creating and implementing an application for automatic string matching, using Python, Pandas, Selenium, and Django with data extracted from multiple sources (like proprietary web app, SalesForce, local files), and output to an SQLite database and CSV files that will be sent by email 
         - Created automated data pipelines and procedures/scripts, with one or more
         sources, using tools like R, Python, Pandas and SciKit Learn, SQL for data
         cleansing and processing, string matching, data normalization
@@ -93,8 +93,8 @@ experiences:
         analysis and reporting, thus reducing the time spent on these processes
         - Reduced bureaucracy by streamlining and optimizing various workflows
         inside the Procurement department
-        - Created documentation / working procedures for the Business Intelligence
-        Operations Team, enabling the colleagues to work in an organised and
+        - Created documentation/working procedures for the Business Intelligence
+        Operations Team, enabling the colleagues to work in an organized and
         structured manner
 
     - role: Project Manager / Office Manager
@@ -150,36 +150,36 @@ experiences:
 projects:
     title: Projects
     intro: >
-        Participated in a series of projects both personal and work related using various tools like Python, Django, Excel, VBA, Jekyll.
+        Participated in a series of projects both personal and work-related using various tools like Python, Django, Excel, VBA, Jekyll.
 
     assignments:
       - title: CSV Bulk Email
         link: 
-        tagline: "PHP application, that loops through a CSV file and reads name, salutation and email address of recipients and uses the PHP Mailer library to send emails, based on a template taken from either a txt or an html file. "
+        tagline: "PHP application, that loops through a CSV file and reads name, salutation and email address of recipients and uses the PHP Mailer library to send emails, based on a template taken from either a txt or an HTML file. "
 
       - title: Spend&Savings
         link: 
-        tagline: "An application developed in Excel VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement departement. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for Novartis Farma."
+        tagline: "An application developed in VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement department. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for Novartis Farma."
 
       - title: Procurement BidForm
         link: "#"
-        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken intro consideration when chosing to award the tender to a certain supplier. The document is then exported to .pdf to be archived. It was developed in Excel VBA for Novartis Farma."
+        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken into consideration when choosing to award the tender to a certain supplier. The document is then exported to .pdf to be archived. It was developed in VBA for Novartis Farma."
 
       - title: Report Centralizer
         link: "#"
-        tagline: "Application realized in Excel VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for use in BMW Italy."
+        tagline: "Application realized in VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for use in BMW Italy."
 
       - title: Procurement Portal Refactoring
         link: "#"
-        tagline: "Restructuring of the Share Point site of the Procurement Department. Performed SEO optimization for internal search engine and modified the file storage structure in order to render update of the site more intuitive and less time consuming. Project realized for Novartis Farma"
+        tagline: "Restructuring of the Share Point site of the Procurement Department. Performed SEO optimization for the internal search engine and modified the file storage structure in order to render update of the site more intuitive and less time-consuming. Project realized for Novartis Farma"
 
       - title: GDPR Data Entry
         link: "#"
-        tagline: "Managed a team of 8 persons that recorded information from scanned pdf documents to tabular form, for the purpose of analisys. In the process I developed various VBA based programs that help identify and remove duplicates and also identify some errors in the submited information. Project realized for Boehringer-Ingelheim Italy."
+        tagline: "Managed a team of 8 persons that recorded information from scanned pdf documents to tabular form, for the purpose of analysis. In the process, I developed various VBA based programs that help identify and remove duplicates and also identify some errors in the submitted information. Project realized for Boehringer-Ingelheim Italy."
 
       - title: Regional Business Plan Refactoring
         link: "#"
-        tagline: "Implemented various changes requested by client in an Excel VBA application used for administration and monitoring of the regional sales business plan. Project realized for Boehringer-Ingelheim Italy."
+        tagline: "Implemented various changes requested by the client in a VBA application used for administration and monitoring of the regional sales business plan. Project realized for Boehringer-Ingelheim Italy."
 
       - title: Duplicate Remover
         link: "#"
@@ -187,11 +187,11 @@ projects:
 
       - title: Spend&Savings ML
         link: "#"
-        tagline: "Refactoring in Python with Pandas and Sci-Kit Learn, of the Spend&Savings reporting tool, previously realized in Excel VBA. The most laborioius part of the process was reimplemented using the KNN machine learning technique for classification, based on categorical variables. Project realized for Novartis Farma."
+        tagline: "Refactoring in Python with Pandas and Sci-Kit Learn, of the Spend&Savings reporting tool, previously realized in VBA. The most laborious part of the process was reimplemented using the KNN machine learning technique for classification, based on categorical variables. Project realized for Novartis Farma."
 
       - title: Ticket Report Updater
         link: "#"
-        tagline: "An application developed in Excel VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
+        tagline: "An application developed in VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
 
       - title: "{shift+return}"
         link: "#"
@@ -199,15 +199,15 @@ projects:
 
       - title: SF-CO
         link: "#"
-        tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance to rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to a SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project with a front end (for configuration purposes) , that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
+        tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance with rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to an SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project with a front end (for configuration purposes), that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
 
       - title: RED - Client Management
         link: "#"
-        tagline: "CRM like web application for real estate developers. Other than the CRM functionalities, it will also allow users to automatically generate contracts and invoices (based on the client information already present in the database), manage the ongoing real estate projects and monitor the loans the real estate developer grants to its cliens. It leverages a banink API to connect to the company's bank account and check that the payment of the monthly installments have been paid by the clients. This project is in it's early days and will implemented using Django and Bootstrap with an PostgreSQL database and Apache Web Server."
+        tagline: "CRM like web application for real estate developers. Other than the CRM functionalities, it will also allow users to automatically generate contracts and invoices (based on the client information already present in the database), manage the ongoing real estate projects and monitor the loans the real estate developer grants to its clients. It leverages a banking API to connect to the company's bank account and check that the monthly installments of the loans have been paid by the clients. This project is in its early days and will be implemented using Django and Bootstrap with a PostgreSQL database and Apache Web Server."
 
       - title: Notary Fee Calculator
         link: "#"
-        tagline: "A client side only web application to be realized with Vue.js and Bootstrap, using local Web Storage (will run locally). It will help notay offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees. The project is in it's early days."
+        tagline: "A client-side only web application to be realized with Vue.js and Bootstrap, using local Web Storage (will run locally). It will help notary offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees. The project is in its early days."
 
 
 skills:
@@ -216,6 +216,12 @@ skills:
     toolset:
       - name: Python & Django
         level: 75%
+
+      - name: Pandas, NumPy & Sci-Kit Learn
+        level: 50%
+
+      - name: R, tidyverse & RStudio
+        level: 40%
 
       - name: Javascript & Vue.js
         level: 60%
@@ -226,7 +232,7 @@ skills:
       - name: Bootstrap
         level: 50%
 
-      - name: Data Analysis
+      - name: Data Analysis, Visualization & Reporting
         level: 85%
 
       - name: Machine Learning
@@ -237,6 +243,37 @@ skills:
 
       - name: SQL
         level: 60%
+        
+      - name: MS Office
+        level: 85%
+        
+      - name: MS Visual Studio Code, Sublime Text & Jupyter Notebook/Lab
+        level: 60%
+    
+      - name: DBeaver & Oracle SQL Developer
+        level: 60%
+ 
+      - name: Git & GitHub
+        level: 60%
+        
+      - name: Docker & Kubernetes
+        level: 30%
+   
+      - name: MacOS & Linux
+        level: 60%
+      
+      - name: Windows OS
+        level: 80%
+
+      - name: Cosulting
+
+      - name: Project Management
+     
+      - name: Customer Relations
+
+      - name: Teamwork
+
+      - name: Business Communication
 
 footer: >
     CV - Calin-Gabriel BULE 
