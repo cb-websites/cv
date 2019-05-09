@@ -256,7 +256,7 @@ skills:
       - name: Jupyter Notebook/Lab
         level: 70%
     
-      - name: DBeaver & Oracle SQL Developer
+      - name: DBeaver
         level: 60%
  
       - name: Git & GitHub
