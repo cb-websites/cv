@@ -217,8 +217,11 @@ skills:
       - name: Python & Django
         level: 75%
 
-      - name: Pandas, NumPy & Sci-Kit Learn
-        level: 50%
+      - name: Pandas & NumPy
+        level: 70%
+        
+      - name: Sci-Kit Learn
+        level: 30%
 
       - name: R, tidyverse & RStudio
         level: 40%
@@ -232,7 +235,7 @@ skills:
       - name: Bootstrap
         level: 50%
 
-      - name: Data Analysis, Visualization & Reporting
+      - name: Data Analysis & Visualization
         level: 85%
 
       - name: Machine Learning
@@ -247,8 +250,11 @@ skills:
       - name: MS Office
         level: 85%
         
-      - name: MS Visual Studio Code, Sublime Text & Jupyter Notebook/Lab
-        level: 60%
+      - name: MS Visual Studio Code
+        level: 65%
+        
+      - name: Jupyter Notebook/Lab
+        level: 70%
     
       - name: DBeaver & Oracle SQL Developer
         level: 60%
@@ -266,14 +272,19 @@ skills:
         level: 80%
 
       - name: Cosulting
+        level: 80%
 
       - name: Project Management
+        level: 65%
      
       - name: Customer Relations
+        level: 85%
 
       - name: Teamwork
+        level: 80%
 
       - name: Business Communication
+        level: 70%
 
 footer: >
     CV - Calin-Gabriel BULE 
