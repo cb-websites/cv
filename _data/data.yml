@@ -217,14 +217,14 @@ skills:
       - name: Python & Django
         level: 75%
 
-      - name: Javascript & jQuery
+      - name: Javascript & Vue.js
         level: 60%
-
-      - name: Vue.js
-        level: 50%
 
       - name: HTML5 & CSS
         level: 80%
+
+      - name: Bootstrap
+        level: 50%
 
       - name: Data Analysis
         level: 85%
@@ -234,9 +234,6 @@ skills:
 
       - name: VBA
         level: 80%
-
-      - name: Bootstrap
-        level: 50%
 
 footer: >
     CV - Calin-Gabriel BULE 
