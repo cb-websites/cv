@@ -195,7 +195,7 @@ projects:
 
       - title: "{shift+return}"
         link: "#"
-        tagline: "Personal blog realized with Jekyll static site generator with the Emerald theme and hosted on GitHub Pages."
+        tagline: "Personal blog realized with Jekyll static site generator with the Emerald theme and hosted on GitHub Pages. It's still work in progress."
 
       - title: SF-CO
         link: "#"
