@@ -74,7 +74,8 @@ experiences:
       time: Mar 2017 - Present
       company: everis Italia, Milan Area, IT
       details: |
-        - Currently working on creating and implementing an application for automatic string matching, using Python, Pandas, Selenium, and Django with data extracted from multiple sources (like proprietary web app, SalesForce, local files), and output to an SQLite database and CSV files that will be sent by email 
+        - Currently working on creating and implementing a platform used for providing various services to corporate clients, using Python, Pandas, Selenium, SalesForce, Django and Postgres on Google Cloud Compute Engine
+        - Handling the deployment of the aforementioned platform and configuration of the production environment (web server, database, etc.)
         - Created automated data pipelines and procedures/scripts, with one or more
         sources, using tools like R, Python, Pandas and SciKit Learn, SQL for data
         cleansing and processing, string matching, data normalization
