@@ -202,14 +202,21 @@ projects:
         link: "#"
         tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance with rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to an SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project with a front end (for configuration purposes), that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
 
+      - title: Notary Fee Calculator
+        link: "#"
+        tagline: "Ecxel + VBA app that helps notary offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees."
+
       - title: RED - Client Management
         link: "#"
         tagline: "CRM like web application for real estate developers. Other than the CRM functionalities, it will also allow users to automatically generate contracts and invoices (based on the client information already present in the database), manage the ongoing real estate projects and monitor the loans the real estate developer grants to its clients. It leverages a banking API to connect to the company's bank account and check that the monthly installments of the loans have been paid by the clients. This project is in its early days and will be implemented using Django and Bootstrap with a PostgreSQL database and Apache Web Server."
 
-      - title: Notary Fee Calculator
+      - title: Web Scraping
         link: "#"
-        tagline: "A client-side only web application to be realized with Vue.js and Bootstrap, using local Web Storage (will run locally). It will help notary offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees. The project is in its early days."
+        tagline: "Created web crawlers that extract hotel information from various aggregators/hotel operators webistes."
 
+      - title: Business Services Platform
+        link: "#"
+        tagline: "Currently working on the construction of a platform that will host various tools for providing data related services to clients in the pharma industry."
 
 skills:
     title: Skills &amp; Proficiency
@@ -236,8 +243,8 @@ skills:
       - name: R, tidyverse & RStudio
         level: 40%
 
-      - name: Javascript & Vue.js
-        level: 60%
+      - name: Javascript
+        level: 50%
 
       - name: HTML5 & CSS
         level: 80%
@@ -245,7 +252,7 @@ skills:
       - name: Bootstrap
         level: 50%
 
-      - name: MS Visual Studio Code
+      - name: MS Visual Studio Code, PyCharm
         level: 65%
 
       - name: SQL
@@ -265,9 +272,15 @@ skills:
         
       - name: Docker & Kubernetes
         level: 30%
-   
+        
+      - name: Google Cloud Compute Engine
+        level: 50%
+        
+      - name: Apache HTTP Server
+        level: 50%
+ 
       - name: MacOS & Linux
-        level: 60%
+        level: 70%
       
       - name: Windows OS
         level: 80%
