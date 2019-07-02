@@ -204,7 +204,7 @@ projects:
 
       - title: Notary Fee Calculator
         link: "#"
-        tagline: "Ecxel + VBA app that helps notary offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees."
+        tagline: "Excel + VBA app that helps notary offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees."
 
       - title: RED - Client Management
         link: "#"
