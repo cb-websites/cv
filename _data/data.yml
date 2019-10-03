@@ -1,3 +1,4 @@
+
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -169,7 +170,7 @@ projects:
         link: "#"
         tagline: "An application developed in VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
 
-       - title: SF-CO
+      - title: SF-CO
         link: "#"
         tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance with rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to an SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project with a front end (for configuration purposes), that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
 
