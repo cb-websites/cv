@@ -129,7 +129,7 @@ projects:
         Participated in a series of projects both personal and work-related using various tools like Python, Django, Excel, VBA, Jekyll.
 
     assignments:
-       - title: CSV Bulk Email
+      - title: CSV Bulk Email
         link: 
         tagline: "PHP application, that loops through a CSV file and reads name, salutation and email address of recipients and uses the PHP Mailer library to send emails, based on a template taken from either a txt or an HTML file. "
 
