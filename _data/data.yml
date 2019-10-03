@@ -34,7 +34,7 @@ sidebar:
         level: Advanced 
         
     interests:
-      - item: my family
+      - item: family
         link:
 
       - item: traveling
@@ -74,77 +74,59 @@ experiences:
       time: Mar 2017 - Present
       company: everis Italia, Milan Area, IT
       details: |
-        - Currently working on creating and implementing a platform used for providing various services to corporate clients, using Python, Pandas, Selenium, SalesForce, Django and Postgres on Google Cloud Compute Engine
-        - Handling the deployment of the aforementioned platform and configuration of the production environment (web server, database, etc.)
-        - Created automated data pipelines and procedures/scripts, with one or more
-        sources, using tools like R, Python, Pandas and SciKit Learn, SQL for data
-        cleansing and processing, string matching, data normalization
-        - Implemented simple machine learning classification models for data classification inside of Procurement department
-        - QA and for CRM implementation project
-        - Managed all reporting activities for the Procurement department
-        - Provided insights into the performance of various areas by creating analysis
-        reports and visualizations, using Excel and Power BI
-        - Reduced monthly reporting time from 4-5 days to 2-3 hours by implementing
-        workflows and automating the processes using Excel VBA and SQL
-        - Facilitated adoption of new software tools by providing easy to understand
-        training and support
-        - Helped reduce the supplier risk in one of the divisions of the client company
-        by implementing an assessment tool and facilitated adoption by users
-        - Developed and implemented Excel VBA software tools for automation of data
-        analysis and reporting, thus reducing the time spent on these processes
-        - Reduced bureaucracy by streamlining and optimizing various workflows
-        inside the Procurement department
-        - Created documentation/working procedures for the Business Intelligence
-        Operations Team, enabling the colleagues to work in an organized and
-        structured manner
+        - software development and maintenance (ETL, RPA, web applications, data analysis)
+        - architect and administrator for shared services platform developed on Google Compute Engine 
+        - IBM Cognos developer
+        - data analysis and reporting
+        - developer advocacy - experimenting with new tools and propose them for adoption in oder to promote innovation and progress 
+        - documentation writing 
 
     - role: Project Manager / Office Manager
       time: Jan 2016 - Present
       company: NIGITHOR Consulting, Arad, RO
       details: |
-        - Managed a team of three people, that provides support for the back-end of a banking analytics platform (Oracle database, ETL flows, shell scripts, SQL queries, PL/SQL procedures, SAP Business Objects query creation and maintenance)
-        - Helped build an Android mobile app for the European Commission together with the Italian team; offered support on other mobile and web development and testing projects
-        - Managed analytics and reporting projects 
-        - Recruited five persons for the Romanian team and selected multiple persons for interviews, for the Italian team
-        - Organized training sessions for the new colleagues on Oracle SQL, Italian and web technologies
+        - team lead for banking application back-end maintenance
+        - software development
+        - managed analytics and reporting projects
+        - personnel recruiting and training
+        - branch administration 
 
     - role: Branch Manager
       time: Jul 2015 - Dec 2015
       company: Volksbank, Arad, RO
       details: |
-        - Maintained a high level of compliance of the branch operations, fact confirmed by an audit 
-        - Successfully implemented a massive loan conversion program that helped clients reduce the financial load. Obtained and adherence rate of more than 90%, with a national average of 60%
-        - Coordination of subordinate staff to achieve sales targets
+        - coordination of subordinate staff to achieve sales targets
+        - responsible for maintaining legal compliance
+        - implementation, at a local level, of a massive loan conversion program that helped clients reduce the financial load; reached an adherence rate of more than 90%  versus a national average of 60%
 
     - role: Relationship Manager PI and SME
       time: May 2012 - Jun 2015
       company: Volksbank, Arad, RO
       details: |
-        - Administered and grew the branch portfolio 
-        - Generated leads and increased current account and personal loans sales reaching imposed sales targets
-        - Reduced the arrears through credit restructuring
-        - Managed the branch and the branch team as a replacement for the branch manager
+        - administration and growth of the branch portfolio
+        - reduced the arrears through credit restructuring
+        - managed the branch and the branch team as a replacement for the branch manager
 
     - role: Relationship Manager
       time: Aug 2008 - May 2012
       company: Unicredit Bank, Arad, RO
       details: |
-        - Administered and grew the branch portfolio 
-        - Generated leads through direct marketing and increased loans sales
+        - administration and growth of the branch portfolio 
+        - reduced the arrears through credit restructuring
 
     - role: Direct Sales Executive
       time: Dec 2007 - Jul 2008
       company: ABN AMRO Bank, Arad, RO
       details: |
-        - Generated sales leads and increased the bank portfolio through direct marketing
+        - generated sales leads and increased the bank portfolio through direct marketing
 
     - role: Project Manager
       time: Oct 2006 - Jun 2007
       company: eXpo Design System, Arad, RO
       details: |
-        - Administered accounts and increased client pool 
-        - Helped clients to get the best possible product while generating revenue for the company 
-        - Supported clients through all the phases of the production of the finished product
+        - administered accounts and increased client pool 
+        - helped clients to get the best possible product while generating revenue for the company 
+        - supported clients through all the phases of the production of the finished product
 
 
 
@@ -194,11 +176,7 @@ projects:
         link: "#"
         tagline: "An application developed in VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
 
-      - title: "{shift+return}"
-        link: "#"
-        tagline: "Personal blog realized with Jekyll static site generator with the Emerald theme and hosted on GitHub Pages. It's still work in progress."
-
-      - title: SF-CO
+       - title: SF-CO
         link: "#"
         tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance with rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to an SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project with a front end (for configuration purposes), that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
 
@@ -216,13 +194,17 @@ projects:
 
       - title: Business Services Platform
         link: "#"
-        tagline: "Currently working on the construction of a platform that will host various tools for providing data related services to clients in the pharma industry."
+        tagline: "Built a platform, on top of a Google Compute Engine instance, that hosts various tools for providing data related services to clients in the pharma industry."
+        
+      - title: Lightravel
+        link: "https://lightravel.me"
+       tagline: "Cloud-native, multi-instance web application that collects hotel room prices that meet certain criteria and displays them, in an aggregated form, on the main page of the app. It was realized in Python with Flask, PostgreSQL and it uses two AWS EC2 instances for the collector apps, an AWS S3 bucket for storage, and three Google Compute Engine instances for the front-end, database and service (Ansible, Jenkins, maintenance scripts). The front-end will be developed further to include account creation and management, subscription tiers, analytics and integration with a payment gateway."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 75%
 
       - name: Data Analysis & Visualization
@@ -241,7 +223,7 @@ skills:
         level: 70%
         
       - name: R, tidyverse & RStudio
-        level: 40%
+        level: 30%
 
       - name: Javascript
         level: 50%
@@ -250,13 +232,13 @@ skills:
         level: 80%
 
       - name: Bootstrap
-        level: 50%
+        level: 60%
 
-      - name: MS Visual Studio Code, PyCharm
+      - name: MS Visual Studio Code, PyCharm, SublimeText
         level: 65%
 
-      - name: SQL
-        level: 60%
+      - name: PostgreSQL, Sqlite
+        level: 70%
 
       - name: DBeaver
         level: 60%
@@ -268,15 +250,18 @@ skills:
         level: 85%
  
       - name: Git & GitHub
-        level: 60%
+        level: 65%
         
       - name: Docker & Kubernetes
         level: 30%
         
       - name: Google Cloud Compute Engine
-        level: 50%
+        level: 70%
         
-      - name: Apache HTTP Server
+      - name: AWS EC2, S3
+        level: 60%
+        
+      - name: Apache HTTP Server, Nginx
         level: 50%
  
       - name: MacOS & Linux
