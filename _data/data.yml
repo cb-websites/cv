@@ -259,7 +259,7 @@ skills:
       - name: Apache HTTP Server, Nginx
         level: 50%
 
-      - name: Big Data: Apache Spark, Apache hadoop
+      - name: Big Data - Apache Spark, Apache hadoop
         level: 40%
 
       - name: MacOS & Linux
