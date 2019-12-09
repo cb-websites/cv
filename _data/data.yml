@@ -79,6 +79,7 @@ experiences:
       time: Jan 2016 - Present
       company: NIGITHOR Consulting, Arad, RO
       details: |
+        - trainer for Big Data technologies (Hadoop, Spark)
         - team lead for banking application back-end maintenance
         - software development
         - managed analytics and reporting projects
@@ -257,7 +258,10 @@ skills:
         
       - name: Apache HTTP Server, Nginx
         level: 50%
- 
+
+      - name: Big Data: Apache Spark, Apache hadoop
+        level: 40%
+
       - name: MacOS & Linux
         level: 70%
       
