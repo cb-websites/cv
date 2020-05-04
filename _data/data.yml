@@ -179,10 +179,6 @@ projects:
         link: "#"
         tagline: "Excel + VBA app that helps notary offices to quickly compute the fees for their services, in accordance to guidelines by The National Union of Notaries Public of Romania, and also have a detailed view of the various components of those fees."
 
-      - title: RED - Client Management
-        link: "#"
-        tagline: "CRM like web application for real estate developers. Other than the CRM functionalities, it will also allow users to automatically generate contracts and invoices (based on the client information already present in the database), manage the ongoing real estate projects and monitor the loans the real estate developer grants to its clients. It leverages a banking API to connect to the company's bank account and check that the monthly installments of the loans have been paid by the clients. This project is in its early days and will be implemented using Django and Bootstrap with a PostgreSQL database and Apache Web Server."
-
       - title: Web Scraping
         link: "#"
         tagline: "Created web crawlers that extract hotel information from various aggregators/hotel operators webistes."
@@ -192,7 +188,7 @@ projects:
         tagline: "Built a platform, on top of a Google Compute Engine instance, that hosts various tools for providing data related services to clients in the pharma industry."
         
       - title: Lightravel
-        link: "https://lightravel.me"
+        link: "#"
         tagline: "Cloud-native, multi-instance web application that collects hotel room prices that meet certain criteria and displays them, in an aggregated form, on the main page of the app. It was realized in Python with Flask, PostgreSQL and it uses two AWS EC2 instances for the collector apps, an AWS S3 bucket for storage, and three Google Compute Engine instances for the front-end, database and service (Ansible, Jenkins, maintenance scripts). The front-end will be developed further to include account creation and management, subscription tiers, analytics and integration with a payment gateway."
 
 skills:
@@ -232,7 +228,7 @@ skills:
       - name: MS Visual Studio Code, PyCharm, SublimeText
         level: 65%
 
-      - name: PostgreSQL, Sqlite
+      - name: PostgreSQL, SQLite
         level: 70%
 
       - name: DBeaver
@@ -250,17 +246,18 @@ skills:
       - name: Docker & Kubernetes
         level: 30%
         
-      - name: Google Cloud Compute Engine
+      - name: Google Cloud Compute Engine, AWS EC2, S3
         level: 70%
-        
-      - name: AWS EC2, S3
-        level: 60%
         
       - name: Apache HTTP Server, Nginx
         level: 50%
 
       - name: Big Data - Apache Hadoop, Apache Spark
         level: 30%
+        
+      - name: IoT: EdgeX Foundry, Mainflux
+        level: 30%  
+    
 
       - name: MacOS & Linux
         level: 70%
