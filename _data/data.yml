@@ -64,27 +64,27 @@ education:
 
 
 experiences:
-    - role: Consultant
-      time: Mar 2017 - Present
-      company: everis Italia, Milan Area, IT
-      details: |
-        - software development and maintenance (ETL, RPA, web applications, data analysis)
-        - architect and administrator for shared services platform developed on Google Compute Engine 
-        - IBM Cognos developer
-        - data analysis and reporting
-        - developer advocacy - experimenting with new tools and propose them for adoption in oder to promote innovation and progress 
-        - documentation writing 
-
     - role: Project Manager / Office Manager
       time: Jan 2016 - Present
       company: NIGITHOR Consulting, Arad, RO
       details: |
         - trainer for Big Data technologies (Hadoop, Spark)
+        - Salesforce training
         - team lead for banking application back-end maintenance
         - software development
         - managed analytics and reporting projects
         - personnel recruiting and training
         - branch administration 
+
+    - role: Consultant
+      time: Mar 2017 - Apr 2020
+      company: everis Italia, Milan Area, IT
+      details: |
+        - software development and maintenance (ETL, RPA, web applications, data analysis)
+        - administrator for shared services platform developed on Google Compute Engine
+        - data analysis and reporting
+        - developer advocacy - experimenting with new tools and propose them for adoption in oder to promote innovation and progress 
+        - documentation writing 
 
     - role: Branch Manager
       time: Jul 2015 - Dec 2015
