@@ -255,9 +255,8 @@ skills:
       - name: Big Data - Apache Hadoop, Apache Spark
         level: 30%
         
-      - name: IoT: EdgeX Foundry, Mainflux
+      - name: IoT - EdgeX Foundry, Mainflux
         level: 30%  
-    
 
       - name: MacOS & Linux
         level: 70%
