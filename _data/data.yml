@@ -73,6 +73,7 @@ experiences:
         - team lead for banking application back-end maintenance
         - software development
         - managed analytics and reporting projects
+        - developer advocacy - experimenting with new tools and propose them for adoption in oder to promote innovation and progress        
         - personnel recruiting and training
         - branch administration 
 
@@ -128,7 +129,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-        Participated in a series of projects both personal and work-related using various tools like Python, Django, Excel, VBA, Jekyll.
+        Participated in a series of projects both personal and work-related using various tools like Python, Flask, Google Cloud Platform, AWS, Terraform, etc.
 
     assignments:
       - title: CSV Bulk Email
@@ -137,43 +138,39 @@ projects:
 
       - title: Spend&Savings
         link: 
-        tagline: "An application developed in VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement department. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for Novartis Farma."
+        tagline: "An application developed in VBA that takes multiple files as input and generates the monthly spend and savings report for use in the procurement department. By automating tasks it managed to drastically reduce the time for the realization of the report from days to hours. Developed for a large pharmaceutical company."
 
       - title: Procurement BidForm
         link: "#"
-        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken into consideration when choosing to award the tender to a certain supplier. The document is then exported to .pdf to be archived. It was developed in VBA for Novartis Farma."
+        tagline: "An interactive form used in the supplier acquisition process that is used to motivate the choice. It takes in data from multiple sources in order to generate the form and it also makes computations to generate the qualitative and quantitative indicators taken into consideration when choosing to award the tender to a certain supplier. The document is then exported to .pdf to be archived. It was developed in VBA for a large pharmaceutical company."
 
       - title: Report Centralizer
         link: "#"
-        tagline: "Application realized in VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for use in BMW Italy."
-
-      - title: Procurement Portal Refactoring
-        link: "#"
-        tagline: "Restructuring of the Share Point site of the Procurement Department. Performed SEO optimization for the internal search engine and modified the file storage structure in order to render update of the site more intuitive and less time-consuming. Project realized for Novartis Farma"
+        tagline: "Application realized in VBA that centralizes, inside a table, the result of all the reports submitted by the field reps (the reports are not in tabular form). It asks the user to choose a folder on the local disk and then it extracts all the requested data from the reports inside it, storing them in the table template, for further analysis. Developed for an automotive company."
 
       - title: GDPR Data Entry
         link: "#"
-        tagline: "Managed a team of 8 persons that recorded information from scanned pdf documents to tabular form, for the purpose of analysis. In the process, I developed various VBA based programs that help identify and remove duplicates and also identify some errors in the submitted information. Project realized for Boehringer-Ingelheim Italy."
+        tagline: "Managed a team of 8 persons that recorded information from scanned pdf documents to tabular form, for the purpose of analysis. In the process, I developed various VBA based programs that help identify and remove duplicates and also identify some errors in the submitted information. Project realized for a large pharmaceutical company."
 
       - title: Regional Business Plan Refactoring
         link: "#"
-        tagline: "Implemented various changes requested by the client in a VBA application used for administration and monitoring of the regional sales business plan. Project realized for Boehringer-Ingelheim Italy."
+        tagline: "Implemented various changes requested by the client in a VBA application used for administration and monitoring of the regional sales business plan. Project realized for a large pharmaceutical company."
 
       - title: Duplicate Remover
         link: "#"
-        tagline: "An app realized in Python with Pandas and difflib, ran in Jupyter Notebook. After the rules on considering two records as duplicates are established it takes a CSV file as input and checks the content. Using a string matching technique implemented with SequenceMatcher it evaluates the records and marks those found as duplicates. Project realized for use in Boehringer-Ingelheim Italy."
+        tagline: "An app realized in Python with Pandas and difflib, ran in Jupyter Notebook. After the rules on considering two records as duplicates are established it takes a CSV file as input and checks the content. Using a string matching technique implemented with SequenceMatcher it evaluates the records and marks those found as duplicates. Project realized for a large pharmaceutical company."
 
       - title: Spend&Savings ML
         link: "#"
-        tagline: "Refactoring in Python with Pandas and Sci-Kit Learn, of the Spend&Savings reporting tool, previously realized in VBA. The most laborious part of the process was reimplemented using the KNN machine learning technique for classification, based on categorical variables. Project realized for Novartis Farma."
+        tagline: "Refactoring in Python with Pandas and Sci-Kit Learn, of the Spend&Savings reporting tool, previously realized in VBA. The most laborious part of the process was reimplemented using the KNN machine learning technique for classification, based on categorical variables. Project realized for a large pharmaceutical company."
 
-      - title: Ticket Report Updater
+      - title: Jira Ticket Report Updater
         link: "#"
-        tagline: "An application developed in VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for IQVIA Italy."
+        tagline: "An application developed in VBA that scans the rows of the report generated the previous day, it isolates the link to the Jira ticket present in one of the columns and then accesses it in Internet Explorer (using a web crawling library for VBA) in order to extract information relative to the actual status of that particular ticket. It records all extracted data to a new column in the initial table. Developed for a company that provides services to the pharma industry."
 
-      - title: SF-CO
+      - title: Enrollment Validator
         link: "#"
-        tagline: "Project realized in Jupyter Lab with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance with rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to an SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. For time being the project is still run in Jupyter Lab but steps have been taken to bring it to a Python project with a front end (for configuration purposes), that will be installed on a Google Cloud Compute Engine VM. This project is realized for Boehringer-Ingelheim Italy and it’s still work in progress."
+        tagline: "Project with Python using the libraries Pandas, simple_salesforce, fuzzywuzzy, selenium, sqlite3, and yagmail. It accesses a proprietary website of the client and downloads an updated report of the new user sign up requests. It then accesses, via REST,  the client's Veeva (SalesForce) account and, using the information in the previously downloaded file and applying a series of string matching techniques (trying to also avoid eventual typos of the users) it tries to determine if the new users are already registered. For the users found to already be registered in the Veeva system, a series of validation procedures are run, in accordance with rules provided by the client. The resulted records are divided by provenience system and saved to files that are then sent by email. The final result is also recorded to an SQLite database. The precision of the matching procedure is around 70-80% which in this case is very good. The software is installed and runs on a VM instance, on GCP, on Windows 2019 Server. Developed for a large pharmaceutical company"
 
       - title: Notary Fee Calculator
         link: "#"
@@ -185,11 +182,19 @@ projects:
 
       - title: Business Services Platform
         link: "#"
-        tagline: "Built a platform, on top of a Google Compute Engine instance, that hosts various tools for providing data related services to clients in the pharma industry."
+        tagline: "Built a platform, on top of a Google Compute Engine instance, that hosts various tools for providing data related services to clients in the pharma industry. Developed for an IT consulting company."
         
-      - title: Lightravel
+      - title: Room Prices App
         link: "#"
-        tagline: "Cloud-native, multi-instance web application that collects hotel room prices that meet certain criteria and displays them, in an aggregated form, on the main page of the app. It was realized in Python with Flask, PostgreSQL and it uses two AWS EC2 instances for the collector apps, an AWS S3 bucket for storage, and three Google Compute Engine instances for the front-end, database and service (Ansible, Jenkins, maintenance scripts). The front-end will be developed further to include account creation and management, subscription tiers, analytics and integration with a payment gateway."
+        tagline: "Cloud-native, multi-instance web application that collects hotel room prices that meet certain criteria and displays them, in an aggregated form, on the main page of the app. It was realized in Python with Flask, PostgreSQL and it uses two AWS EC2 instances for the collector apps, an AWS S3 bucket for storage, and two Google Compute Engine instances for the front-end and database."
+
+      - title: Territory Assignment Tool
+        link: "#"
+        tagline: "In the world of pharmaceutical sales, the representatives of the company are assigned each to a territory inside which they carry out their activity. Given that the variables in this world are ever changing (medics move away, reps resign, etc.) the company finds it hard to keep track and always have a clear image of what is going on with their sales force. I helped develop and implement an application that extracts information from the client's information systems (via REST API) and updates the assignment of the reps to their respective territories. It is developed in Python with Flask, Pandas and simple_salesforce, HTML, CSS, JS, Bootstrap, can run both locally or on a server and it comes with a GUI with control panel. This application is strongly integrated with Windows OS, making use of its API to interact with various processes. Developed for a pharmaceutical company. Developed for a large pharmaceutical company"
+
+      - title: Event Tool
+        link: "#"
+        tagline: "An application that helps to create a report of medics that represent further commercial interest, and enriching it with extra information, looking at all the participants at the events organized by the client. It does so by connecting via REST to Salesforce via, and other systems for the extraction of information and processing everything in Python. This software is strongly integrated with the Windows OS, making use of ita API to generate PDF files from the output files. Developed for a pharmaceutical company. Developed for a large pharmaceutical company"
 
 skills:
     title: Skills &amp; Proficiency
@@ -243,10 +248,10 @@ skills:
       - name: Git & GitHub
         level: 65%
         
-      - name: Docker & Kubernetes
+      - name: Docker, Kubernetes, Terraform
         level: 30%
         
-      - name: Google Cloud Compute Engine, AWS EC2, S3
+      - name: Google Cloud Compute Engine, AWS EC2, S3, Digitalocean
         level: 70%
         
       - name: Apache HTTP Server, Nginx
