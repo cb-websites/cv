@@ -64,8 +64,12 @@ education:
 
 
 experiences:
+    - role: Technical Support Engineer
+      time: Oct 2020 - Present
+      company: Axigen Messaging, Bucharest, RO
+
     - role: Project Manager / Office Manager
-      time: Jan 2016 - Present
+      time: Jan 2016 - Oct 2020
       company: NIGITHOR Consulting, Arad, RO
       details: |
         - trainer for Big Data technologies (Hadoop, Spark)
@@ -196,7 +200,7 @@ projects:
         link: "#"
         tagline: "An application that helps to create a report of medics that represent further commercial interest, and enriching it with extra information, looking at all the participants at the events organized by the client. It does so by connecting via REST to Salesforce via, and other systems for the extraction of information and processing everything in Python. This software is strongly integrated with the Windows OS, making use of ita API to generate PDF files from the output files. Developed for a pharmaceutical company. Developed for a large pharmaceutical company"
 
-      - title: Scalable App Infrastructure (ongoing project)
+      - title: Scalable App Infrastructure
         link: "#"
         tagline: "Terrafrom project that aims to deploy e-commerce applications, such as Wordpress + WooCommerce or Prestashop, inside a scalable architecture on Digitalocean, using an auto-scalable Kubernetes cluster with a load balancer and a volume for the persistance of the application files, MySQL RDS, a Spaces bucket for static files, all inside a VPC created purposefully for the current deployment."
 
@@ -239,6 +243,9 @@ skills:
 
       - name: PostgreSQL, SQLite
         level: 70%
+
+      - name: Couchbase
+        level: 50%
 
       - name: DBeaver
         level: 60%
