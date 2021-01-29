@@ -72,8 +72,7 @@ experiences:
       time: Jan 2016 - Oct 2020
       company: NIGITHOR Consulting, Arad, RO
       details: |
-        - trainer for Big Data technologies (Hadoop, Spark)
-        - Salesforce training
+        - trainer: Big Data technologies (Hadoop, Spark), Salesforce, Microsoft Office, infrastructure (Docker, Kubernetes, cloud)
         - team lead for banking application back-end maintenance
         - software development
         - managed analytics and reporting projects
@@ -202,7 +201,7 @@ projects:
 
       - title: Scalable App Infrastructure
         link: "#"
-        tagline: "Terrafrom project that aims to deploy e-commerce applications, such as Wordpress + WooCommerce or Prestashop, inside a scalable architecture on Digitalocean, using an auto-scalable Kubernetes cluster with a load balancer and a volume for the persistance of the application files, MySQL RDS, a Spaces bucket for static files, all inside a VPC created purposefully for the current deployment."
+        tagline: "Terrafrom project that deploys e-commerce applications, such as Wordpress or Prestashop, inside a scalable architecture on Digitalocean, using an auto-scalable Kubernetes cluster with a load balancer and volumes for the persistance of the application and database files, all inside a VPC created purposefully for the deployment."
 
 skills:
     title: Skills &amp; Proficiency
